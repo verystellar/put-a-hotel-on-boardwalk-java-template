@@ -10,9 +10,6 @@ public class CircularlyLinkedList {
     Node current;
     Node tail;
 
-
-
-
     public CircularlyLinkedList() {
         head = null;
         current = head;
